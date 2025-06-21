@@ -30,7 +30,8 @@ A simple and responsive personal portfolio website showcasing skills, contact in
 
 ### 📸 Preview
 
-![Portfolio Screenshot](Portfolio.png)
+![Portfolio Screenshot](./portfolio.png)
+
 
 ---
 
